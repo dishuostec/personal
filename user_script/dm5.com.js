@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         书签新漫画提醒
-// @namespace    http://your.homepage/
+// @namespace    https://github.com/dishuostec/personal/blob/master/user_script/dm5.com.js
 // @version      0.1
 // @description  高亮显示新的未读漫画
 // @author       dishuostec
