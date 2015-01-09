@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		  Frame Killer
-// @namespace    https://github.com/dishuostec/personal/blob/master/user_script/stop_http_hijack.js
+// @namespace    https://github.com/dishuostec/personal/blob/master/user_script/stop_http_hijack.user.js
 // @version      0.1
 // @description	  联通http劫持
 // @author       dishuostec
